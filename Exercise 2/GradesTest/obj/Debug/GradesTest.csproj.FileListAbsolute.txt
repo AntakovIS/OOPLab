@@ -1,0 +1,12 @@
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\GradesTest.dll
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\GradesTest.pdb
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\GradesPrototype.exe
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\GradesPrototype.pdb
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\GradesPrototype.exe.config
+C:\OOPLab\Exercise 2\GradesTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\OOPLab\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.AssemblyReference.cache
+C:\OOPLab\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.CoreCompileInputs.cache
+C:\OOPLab\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.CopyComplete
+C:\OOPLab\Exercise 2\GradesTest\obj\Debug\GradesTest.dll
+C:\OOPLab\Exercise 2\GradesTest\obj\Debug\GradesTest.pdb
